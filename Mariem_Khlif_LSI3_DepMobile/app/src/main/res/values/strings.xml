@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mariem Khlif LSI3 Mesure_Glycemie</string>
+    <string name="title">Mesure de niveau de glycémie</string>
+    <string name="text">Votre âge:</string>
+    <string name="text2">Est-ce que vous jeûnez ?</string>
+    <string name="resultat">...</string>
+
+</resources>
