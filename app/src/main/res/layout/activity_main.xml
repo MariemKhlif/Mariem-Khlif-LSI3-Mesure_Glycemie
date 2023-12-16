@@ -25,10 +25,11 @@
         android:id="@+id/tvAge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="28dp"
+        android:padding="10dp"
         android:text="@string/text"
-        android:textSize="25sp"
         android:textColor="@color/black"
-        />
+        android:textSize="25sp" />
 
     <SeekBar
         android:id="@+id/sbAge"
@@ -93,14 +94,6 @@
         android:text="Consulter"
         android:textSize="18sp" />
 
-    <TextView
-        android:id="@+id/tvResultat"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
-        android:gravity="center"
-        android:text="@string/resultat"
-        android:textSize="35sp"
-        android:textColor="@color/black"/>
+
 
 </LinearLayout>
